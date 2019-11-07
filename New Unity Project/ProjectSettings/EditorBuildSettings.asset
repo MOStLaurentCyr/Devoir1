@@ -4,5 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: e345b6e3729365b42bb2307c173131e0
+  - enabled: 1
+    path: Assets/Scenes/superMarble.unity
+    guid: ea4718e8178505e408a5f879da329ed0
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 3863c6d7211b5be4e885e3dbe3fac737,
+      type: 2}
