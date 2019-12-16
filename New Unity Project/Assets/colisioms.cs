@@ -18,6 +18,5 @@ public class colisioms : MonoBehaviour
 
     public void OnCollisionEnter(Collision collision)
     {
-        Rigidbody.velo
     }
 }
