@@ -12,7 +12,7 @@ Shader "Custom/CRTShader"
 
 		SubShader{
 			Pass {
-				ZTest Always Cull Off ZWrite Off Fog { Mode off }
+			//	ZTest Always Cull Off ZWrite Off Fog { Mode off }
 
 				CGPROGRAM
 
